@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
-  "apk_url": "https://github.com/USERNAME/REPO/releases/download/v1.0.1/app-release.apk",
-  "changelog": "Critical fixes. Please update to continue using the app.",
+  "version": "1.0.2",
+  "apk_url": "https://github.com/seth-16-one/eschoolupdates/releases/download/v1.0.2/app-release.apk",
+  "changelog": "Critical update required before using the app. Includes login, profile, dashboard, and backend sync fixes.",
   "force_update": true
 }
