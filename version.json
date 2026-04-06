@@ -1,6 +1,6 @@
 {
   "version": "1.1.1",
-  "apk_url": "https://github.com/seth-16-one/eschoolupdates/releases/download/v1.1.1/app-student-release.apk",
+  "apk_url": "https://github.com/seth-16-one/eschoolupdates/releases/download/v1.1.2/app-student-release.apk",
   "changelog": "Critical update required before using the app. Includes login, profile, dashboard, and backend sync fixes.",
   "force_update": true
 }
